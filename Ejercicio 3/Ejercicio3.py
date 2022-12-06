@@ -10,6 +10,7 @@ class ISensor(Interface):
     def setValor(self):
         """Establece un nuevo valor de peligro"""
 
+
 @implementer(ISensor)
 class Sensor(object):
     def __init__(self, nombre):
@@ -54,6 +55,7 @@ class Alarma(object):
             print("ALARMA!!!")
         else:
             print("Todo OK")
+
 
 if __name__=="__main__":
     Humo=SensorHumo()
