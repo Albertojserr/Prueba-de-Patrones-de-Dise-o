@@ -1,7 +1,7 @@
 from subject import Subject
 from observadorcargabateria import ObservadorCargaBateria
 from bateria import Bateria
-from observadortiempobateria import ObservadorTiempoBateria
+from obstiempobateria import ObservadorTiempoBateria
 
 
 def main():
