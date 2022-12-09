@@ -10,6 +10,7 @@ Para cada base, interesa modelar los siguientes datos:
     Tiempo medio de asistencia, que en el caso de las bases compuestas es la media de los tiempos medios de asistencia registrados en las bases que las componen en ese momento.
 
 Elaborar un diseño que permita modelar adecuadamente esta situación, implantando completamente en python las clases que modelan las bases, sean del tipo que sean.
+
 Ejercicio 2 (2 Puntos)
 
 Disponemos de una clase BATERIA que modela el funcionamiento de la batería de un ordenador portátil, cuya forma corta es la siguiente:
